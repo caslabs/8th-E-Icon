@@ -5,8 +5,10 @@ Augmented Science provides both educational assistance and resources which is ac
 
 ### Augmented Reality
 ![Our Beloved Earth](./info/littlebluedot.png "AR Earth")
+
 We believe the best way to provide access to free scientific education is to provide the resources through augmented reality. This provides the developers access to scale and upgrade scientific resources.
 
 ### Gamification
 ![Gamification](./info/solarSystem.png "Gamification of Solar System")
+
 Gamification is the best learning methodology to provide students a safe and interactive scientific experiment. Our app provides free educational assistance and resources such as chemistry and astronomy that can be used as an asset for lessons and lectures.
